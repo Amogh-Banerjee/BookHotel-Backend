@@ -1,0 +1,706 @@
+[{
+  "_id": 1,
+  "title": "Hotel Apple Inn and Suits, New Delhi",
+  "rating": "★★★★",
+  "city": "New Delhi",
+  "location": "Paharganj, New Delhi",
+  "score": {
+    "scorenum": 8.3,
+    "scoreDesc": "Very Good",
+    "n_ratings": 807
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 1729
+},
+{
+  "_id": 2,
+  "title": "Park Inn by Radisson, South Delhi",
+  "rating": "★★★★★",
+  "city": "New Delhi",
+  "location": "1 & 2 Ring Road, Lajpat Nagar, 110024 New Delhi, India",
+  "score": {
+    "scorenum": 7.8,
+    "scoreDesc": "Good",
+    "n_ratings": 1732
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 5999
+},
+{
+  "_id": 3,
+  "title": "Crowne Plaza New Delhi Okhla, an IHG Hotel",
+  "rating": "★★★★★",
+  "city": "New Delhi",
+  "location": "Plot No 1, Community Centre Okhla, Phase-1, 110020 New Delhi, India",
+  "score": {
+    "scorenum": 7.9,
+    "scoreDesc": "Good",
+    "n_ratings": 1614
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 6035
+},
+{
+  "_id": 4,
+  "title": "Holiday Inn New Delhi Mayur Vihar Noida, an Ing Hotel",
+  "rating": "★★★★",
+  "city": "New Delhi",
+  "location": "Mayur Vihar Phase 1, New Delhi",
+  "score": {
+    "scorenum": 7.8,
+    "scoreDesc": "Good",
+    "n_ratings": 1658
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 6825
+},
+{
+  "_id": 5,
+  "title": "Serene Crest Resort",
+  "rating": "★★★★",
+  "city": "Mananthavady",
+  "location": "Located in Mananthavady, 12 miles from Banasura Hill",
+  "score": {
+    "scorenum": 8.8,
+    "scoreDesc": "Very Good",
+    "n_ratings": 297
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 6110
+},
+{
+  "_id": 6,
+  "title": "Sylvan Resort",
+  "rating": "★★★★★",
+  "city": "Wayanad",
+  "location": "SylVan Resort offers air-conditioned accommodations in Wayanad",
+  "score": {
+    "scorenum": 9,
+    "scoreDesc": "Wonderful",
+    "n_ratings": 306
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 5150
+},
+{
+  "_id": 7,
+  "title": "Winter Vale Green Stay Resort",
+  "rating": "★★★★",
+  "city": "Vagamon",
+  "location": "Winter Vale Green Stay Resorts features an outdoor swimming pool, garden and water sports facilities in Vagamon. Featuring a kids' club, this property also provides guests with a playground.",
+  "score": {
+    "scorenum": 8,
+    "scoreDesc": "Very Good",
+    "n_ratings": 195
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 5599
+},
+{
+  "_id": 8,
+  "title": "Wave Lakeview Resort",
+  "rating": "★★★★",
+  "city": "Wayanad",
+  "location": "Located in Wayanad, 2 miles from Heritage Museum",
+  "score": {
+    "scorenum": 8.7,
+    "scoreDesc": "Excellent",
+    "n_ratings": 153
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 9400
+},
+{
+  "_id": 9,
+  "title": "Ibis Chennai Omr-An Accor Brand",
+  "rating": "★★★★",
+  "city": "Chennai",
+  "location": "Opp.Elcot Sez,It Expressway,Old Mahabalipuram Road,Chennai",
+  "score": {
+    "scorenum": 7.5,
+    "scoreDesc": "Good",
+    "n_ratings": 2306
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 3135
+},
+{
+  "_id": 10,
+  "title": "The leela Palace Chennai",
+  "rating": "★★★★★",
+  "city": "Chennai",
+  "location": "Adyar Seaface,Mrc Nagar,Chennai",
+  "score": {
+    "scorenum": 8.8,
+    "scoreDesc": "Excellent",
+    "n_ratings": 2363
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 14400
+},
+{
+  "_id": 11,
+  "title": "The Park Chennai",
+  "rating": "★★★★",
+  "city": "Chennai",
+  "location": "601,Near US Embassy,Anna Salai,Nungambakkam,Chennai",
+  "score": {
+    "scorenum": 6.9,
+    "scoreDesc": "Pleasant",
+    "n_ratings": 3354
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 6599
+},
+{
+  "_id": 12,
+  "title": "Novotel Chennai Chamiers Road",
+  "rating": "★★★★★",
+  "city": "Chennai",
+  "location": "City Center,Near Boat Club And Anna Salai,Nandanam,Chennai",
+  "score": {
+    "scorenum": 8.1,
+    "scoreDesc": "Very Good",
+    "n_ratings": 1797
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 7789
+},
+{
+  "_id": 13,
+  "title": "Novotel",
+  "rating": "★★★★★",
+  "city": "Vishakapatanam",
+  "location": "Near Rk Beach",
+  "score": {
+    "scorenum": 9.6,
+    "scoreDesc": "Very Good",
+    "n_ratings": 2347
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 3729
+},
+{
+  "_id": 14,
+  "title": "Beacon",
+  "rating": "★★★★★",
+  "city": "Vishakapatanam",
+  "location": "Abid nagar",
+  "score": {
+    "scorenum": 8.6,
+    "scoreDesc": "Very Good",
+    "n_ratings": 4347
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 2450
+},
+{
+  "_id": 15,
+  "title": "The Park",
+  "rating": "★★★★",
+  "city": "Vishakapatanam",
+  "location": "City Central",
+  "score": {
+    "scorenum": 7.6,
+    "scoreDesc": "Good",
+    "n_ratings": 3314
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 1720
+},
+{
+  "_id": 16,
+  "title": "Seaview",
+  "rating": "★★★★★",
+  "city": "Vishakapatanam",
+  "location": "Yarada",
+  "score": {
+    "scorenum": 8.4,
+    "scoreDesc": "Very Good",
+    "n_ratings": 3122
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 2900
+},
+{
+  "_id": 17,
+  "title": "Ramada by Wyndham ",
+  "rating": "★★★★",
+  "city": "Kolkata",
+  "location": "Metal Colony, Sikar Road",
+  "score": {
+    "scorenum": 6.3,
+    "scoreDesc": " Good",
+    "n_ratings": 1247
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 940
+},
+{
+  "_id": 18,
+  "title": "Accor Hotel",
+  "rating": "★★★★★",
+  "city": "Kolkata",
+  "location": "Ballygunge",
+  "score": {
+    "scorenum": 8.8,
+    "scoreDesc": "Excellent",
+    "n_ratings": 4347
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 3120
+},
+{
+  "_id": 19,
+  "title": "Agoda Hotel",
+  "rating": "★★★★★",
+  "city": "Kolkata",
+  "location": "Park Street",
+  "score": {
+    "scorenum": 7.6,
+    "scoreDesc": "Very Good",
+    "n_ratings": 1347
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 2210
+},
+{
+  "_id": 20,
+  "title": "Hotel Angena",
+  "rating": "★★★",
+  "city": "Vishakapatanam",
+  "location": "Gariahat",
+  "score": {
+    "scorenum": 7.4,
+    "scoreDesc": " Good",
+    "n_ratings": 847
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 1460
+},
+{
+  "_id": 21,
+  "title": "DLF Hotel",
+  "rating": "★★★★★",
+  "city": "Hyderabad",
+  "location": "DLF Road",
+  "score": {
+    "scorenum": 8.3,
+    "scoreDesc": "Very Good",
+    "n_ratings": 6347
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 3290
+},
+{
+  "_id": 22,
+  "title": "Trident Hotel",
+  "rating": "★★★★",
+  "city": "Hyderabad",
+  "location": "Hitech City",
+  "score": {
+    "scorenum": 9.1,
+    "scoreDesc": "Excellent",
+    "n_ratings": 2516
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 4100
+},
+{
+  "_id": 23,
+  "title": "ITC Kohinoor",
+  "rating": "★★★★★",
+  "city": "Hyderabad",
+  "location": "Gachibowli",
+  "score": {
+    "scorenum": 9.8,
+    "scoreDesc": "Excellent",
+    "n_ratings": 5327
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 4870
+},
+{
+  "_id": 24,
+  "title": "Marriot",
+  "rating": "★★★★★",
+  "city": "Hyderabad",
+  "location": "Gachibowli",
+  "score": {
+    "scorenum": 9.2,
+    "scoreDesc": "Very Good",
+    "n_ratings": 3452
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming pool at the property",
+    "🍴 Restaurants",
+    "🕛 24*7 Room Service"
+  ],
+  "price": 3400
+},
+{
+  "_id": 25,
+  "title": "Ramada by Wyndham Amritsar",
+  "rating": "★★★★★",
+  "city": "Amritsar",
+  "location": "Katira Bagiya",
+  "score": {
+    "scorenum": 8.6,
+    "scoreDesc": "Excellent",
+    "n_ratings": 2509
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming Pool"
+  ],
+  "price": 5700
+},
+{
+  "_id": 26,
+  "title": "Regenta Place Amritsar",
+  "rating": "★★★★",
+  "city": "Amritsar",
+  "location": "Model Town",
+  "score": {
+    "scorenum": 8,
+    "scoreDesc": "Excellent",
+    "n_ratings": 619
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming Pool"
+  ],
+  "price": 3021
+},
+{
+  "_id": 27,
+  "title": "Fairfield by Marriott Amritsar",
+  "rating": "★★★★",
+  "city": "Amritsar",
+  "location": "Railway Link Road",
+  "score": {
+    "scorenum": 8.4,
+    "scoreDesc": "Excellent",
+    "n_ratings": 667
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming Pool"
+  ],
+  "price": 4550
+},
+{
+  "_id": 28,
+  "title": "Hyatt Regency Amritsar",
+  "rating": "★★★★",
+  "city": "Amritsar",
+  "location": "Rana Garden",
+  "score": {
+    "scorenum": 8.3,
+    "scoreDesc": "Excellent",
+    "n_ratings": 652
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming Pool"
+  ],
+  "price": 5000
+},
+{
+  "_id": 29,
+  "title": "Taj Swarna Amritsar",
+  "rating": "★★★★★",
+  "city": "Amritsar",
+  "location": "Beauty Avenue",
+  "score": {
+    "scorenum": 8.7,
+    "scoreDesc": "Excellent",
+    "n_ratings": 179
+  },
+  "amenities": [
+    "✔ Free Wifi",
+    "✔ Swimming Pool"
+  ],
+  "price": 8700
+},
+{
+  "_id": 30,
+  "title": "The Taj Mahal Palace Mumbai",
+  "rating": "★★★★★",
+  "city": "Mumbai",
+  "location": "Colaba",
+  "score": {
+    "scorenum": 9.2,
+    "scoreDesc": "Exceptional",
+    "n_ratings": 237
+  },
+  "amenities": [
+    "✔ Opera Experience",
+    "✔ Express check-in"
+  ],
+  "price": 29265
+},
+{
+  "_id": 31,
+  "title": "JW Marriott Mumbai ",
+  "rating": "★★★★★",
+  "city": "Mumbai",
+  "location": "Juhu",
+  "score": {
+    "scorenum": 8.7,
+    "scoreDesc": "Excellent",
+    "n_ratings": 599
+  },
+  "amenities": [
+    "✔ Ocean View",
+    "✔ Booking with ₹0 Payment"
+  ],
+  "price": 16000
+},
+{
+  "_id": 32,
+  "title": "The Westin Mumbai",
+  "rating": "★★★★★",
+  "city": "Mumbai",
+  "location": "Goregaon East",
+  "score": {
+    "scorenum": 8.9,
+    "scoreDesc": "Excellent",
+    "n_ratings": 579
+  },
+  "amenities": [
+    "✔ Booking with ₹0 Payment",
+    "✔ Express check-in"
+  ],
+  "price": 26000
+},
+{
+  "_id": 33,
+  "title": "ITC Maratha Mumbai",
+  "rating": "★★★★★",
+  "city": "Mumbai",
+  "location": "Andheri East",
+  "score": {
+    "scorenum": 8.6,
+    "scoreDesc": "Excellent",
+    "n_ratings": 690
+  },
+  "amenities": [
+    "✔ Booking with ₹0 Payment",
+    "✔ Currency Exchange"
+  ],
+  "price": 14300
+},
+{
+  "_id": 34,
+  "title": "Trident Mumbai",
+  "rating": "★★★★★",
+  "city": "Mumbai",
+  "location": "Nariman Point",
+  "score": {
+    "scorenum": 8.9,
+    "scoreDesc": "Excellent",
+    "n_ratings": 1439
+  },
+  "amenities": [
+    "✔ Indoor Swimming Pool",
+    "✔ Express check-in"
+  ],
+  "price": 15349
+},
+{
+  "_id": 35,
+  "title": "The Leela Palace Bengaluru",
+  "rating": "★★★★★",
+  "city": "Bangalore",
+  "location": "Kodihalli",
+  "score": {
+    "scorenum": 8.8,
+    "scoreDesc": "Excellent",
+    "n_ratings": 335
+  },
+  "amenities": [
+    "✔ Book with ₹0 Payment",
+    "✔ Express check-in"
+  ],
+  "price": 126900
+},
+{
+  "_id": 36,
+  "title": "The Ritz-Carlton Bengaluru",
+  "rating": "★★★★★",
+  "city": "Bangalore",
+  "location": "Richmond Town",
+  "score": {
+    "scorenum": 8.7,
+    "scoreDesc": "Excellent",
+    "n_ratings": 71
+  },
+  "amenities": [
+    "✔ Book with ₹0 Payment",
+    "✔ Express check-in"
+  ],
+  "price": 32000
+},
+{
+  "_id": 37,
+  "title": "JW Marriott Hotel Bengaluru",
+  "rating": "★★★★★",
+  "city": "Bangalore",
+  "location": "Gandhinagar",
+  "score": {
+    "scorenum": 8.8,
+    "scoreDesc": "Excellent",
+    "n_ratings": 67
+  },
+  "amenities": [
+    "✔ Book with ₹0 Payment",
+    "✔ Express check-in"
+  ],
+  "price": 17600
+},
+{
+  "_id": 38,
+  "title": "The Oberoi Bengaluru",
+  "rating": "★★★★★",
+  "city": "Bangalore",
+  "location": "Ashok Nagar",
+  "score": {
+    "scorenum": 9.3,
+    "scoreDesc": "Exceptional",
+    "n_ratings": 541
+  },
+  "amenities": [
+    "✔ Book with ₹0 Payment",
+    "✔ Express check-in"
+  ],
+  "price": 23000
+},
+{
+  "_id": 39,
+  "title": "Conrad Bengaluru",
+  "rating": "★★★★★",
+  "city": "Bangalore",
+  "location": "Ulsoor",
+  "score": {
+    "scorenum": 8.8,
+    "scoreDesc": "Excellent",
+    "n_ratings": 424
+  },
+  "amenities": [
+    "✔ Book with ₹0 Payment",
+    "✔ Breakfast Included"
+  ],
+  "price": 24000
+}]
