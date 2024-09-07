@@ -16,6 +16,8 @@ namespace HotelDetailsAPI.Controllers
 			_hotelDetailsService = hotelDetailsService;
 		}
 
+		// Basic CRUD operations:
+
 		[HttpPost]
 		public async Task<IActionResult> CreateHotel([FromBody] HotelDetails hotel)
 		{
@@ -30,6 +32,7 @@ namespace HotelDetailsAPI.Controllers
 			if (hotel == null) return NotFound();
 			return Ok(hotel);
 		}
+
 
 		[HttpGet]
 		public async Task<IActionResult> GetAllHotels()
@@ -50,6 +53,24 @@ namespace HotelDetailsAPI.Controllers
 		{
 			await _hotelDetailsService.DeleteHotelAsync(id);
 			return NoContent();
+		}
+
+		// Other operations:
+
+		// Get hotel by search parameters
+		[HttpGet("search")]
+		public async Task<IActionResult> SearchHotels(string destination, DateTime checkInDate, DateTime checkOutDate)
+		{
+			var hotels = await _hotelDetailsService.SearchHotels(destination, checkInDate, checkOutDate);
+			return Ok(hotels);
+		}
+
+		// Endpoint to get distinct cities
+		[HttpGet("distinct-cities")]
+		public async Task<IActionResult> GetDistinctCities()
+		{
+			var cities = await _hotelDetailsService.GetDistinctCities();
+			return Ok(cities);
 		}
 	}
 }

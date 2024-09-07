@@ -14,6 +14,9 @@ namespace HotelDetailsAPI.Models
 		public Score score { get; set; }
 		public List<string> amenities { get; set; }
 		public int price {  get; set; }
+		public int availableFromMonth { get; set; }
+		public int availableUntilMonth { get; set; }
+		public int n_rooms {  get; set; }
 
 	}
 

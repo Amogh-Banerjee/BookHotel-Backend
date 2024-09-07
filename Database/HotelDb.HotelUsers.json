@@ -1,0 +1,12 @@
+[{
+  "_id": 1,
+  "mobile_number": "9092932511",
+  "username": "Amogh",
+  "password_hash": "$2a$11$lgKAmoc8he497sux0DH7Q.Fi0wKF/qdEcJszlHi0d97wJBcFx1ZVu"
+},
+{
+  "_id": 2,
+  "mobile_number": "9479554524",
+  "username": "Amogh",
+  "password_hash": "$2a$11$gLuUexFt5k4zZ8jTFzogkOAq7Qwg3evXxgxeV.Lc.BE3TV5QrYPTG"
+}]
