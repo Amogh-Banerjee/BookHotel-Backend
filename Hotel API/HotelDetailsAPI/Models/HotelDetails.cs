@@ -17,6 +17,7 @@ namespace HotelDetailsAPI.Models
 		public int availableFromMonth { get; set; }
 		public int availableUntilMonth { get; set; }
 		public int n_rooms {  get; set; }
+		public string description { get; set; }
 
 	}
 
