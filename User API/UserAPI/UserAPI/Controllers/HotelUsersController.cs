@@ -83,7 +83,21 @@ namespace UserAPI.Controllers
 			return Ok(new { username = username });
 		}
 
+		[HttpGet("getByMobile")]
+		public async Task<IActionResult> GetUserByMobile(string mobile_number)
+		{
+			var user = await _userService.GetUserByMobileAsync(mobile_number);
+			if (user == null)
+			{
+				return NotFound();
+			}
+			return Ok(user);
+		}
+
+
 	}
 
-	
+
+
+
 }

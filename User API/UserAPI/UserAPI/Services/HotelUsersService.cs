@@ -55,5 +55,12 @@ namespace UserAPI.Services
 			return user?.username; // Return null if user is not found
 		}
 
+		public async Task<HotelUsers> GetUserByMobileAsync(string mobile_number)
+		{
+			var filter = Builders<HotelUsers>.Filter.Eq("mobile_number", mobile_number);
+			return await _users.Find(filter).FirstOrDefaultAsync();
+		}
+
+
 	}
 }
